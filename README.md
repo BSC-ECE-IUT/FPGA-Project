@@ -6,9 +6,10 @@ This poject implemented for Languages of Hardware Design course at [Isfahan Univ
 HOW TO USE IT
 ---------------
 
-[in Persian ](/poject_fpga.pdf))
+[click this file if you know persian language ](/poject_fpga.pdf)
 
 
+If you don't know the language, [mail](mailto:kargaranamir@gmail.com)me to translate it
 
 Files
 ---------------------------------------
