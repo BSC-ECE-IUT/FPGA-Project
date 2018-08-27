@@ -40,3 +40,9 @@ Files
  C code for receiving data from FT2232H
  
  
+
+Video
+---------------------------------------
+
+Youtube : https://www.youtube.com/watch?v=ECHrWBCQf3o&feature=youtu.be
+[download](/video_2018-01-24_01-20-41.mov)
