@@ -17,20 +17,20 @@ Files
   
  ### FT2232H
  
- The FT2232H is FTDI's 5th generation of USB devices. The FT2232H is a USB 2.0 Hi-Speed (480Mb/s) to UART/FIFO IC.
- This IC used for sending data to the pc .
+We used FT2232H for transferring data and programming the FPGA without JTAG . The FT2232H is a USB 2.0 Hi-Speed (480Mb/s) to UART/FIFO IC. This IC used for sending data to the PC . 
  
  ### Board 
- 
+ Also we design a customized board for Spartan6 (XC6SLX9-2TQG144C)
  Schematic and Pcb designing 
+ 
  
  ### Matlab 
  
  matlab code for playing the voice 
  
  ### Verilog
- 
- Hdl code and bit file for implementing i2s protocol and Ft2232H interface
+ In the main of this project we implement I2S protocol by Verilog and UART/FIFO IC protocol by HLS.
+
  
  ### Visual Studio 
  
