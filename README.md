@@ -31,5 +31,7 @@ Test
 ---------------------------------------
 when the input is very low amplitude sinusoid. We get this output with wide range of frequency.
 ![Screenshot](https://github.com/kargaranamir/Microphone_fpga/blob/master/Visual_studio/1.png "FT2232H")
-Youtube : https://www.youtube.com/watch?v=ECHrWBCQf3o&feature=youtu.be
+
+
+Youtube video : https://www.youtube.com/watch?v=ECHrWBCQf3o&feature=youtu.be
 
