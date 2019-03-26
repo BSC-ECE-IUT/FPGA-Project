@@ -3,13 +3,10 @@
 
 This poject implemented for Languages of Hardware Design (FPGA) course at [Isfahan University of Technology](http://iut.ac.ir)
 
-HOW TO USE IT
+HOW TO USE IT (in persian)
 ---------------
 
 [click this file if you know persian language ](/poject_fpga.pdf)
-
-
-If you don't know this language, [mail](mailto:kargaranamir@gmail.com) me to translate it
 
 Files
 ---------------------------------------
@@ -47,3 +44,5 @@ Video
 Youtube : https://www.youtube.com/watch?v=ECHrWBCQf3o&feature=youtu.be
 
 [download](https://github.com/kargaranamir/Microphone_fpga/raw/master/video_2018-01-24_01-20-41.mov)
+
+
