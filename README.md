@@ -1,12 +1,8 @@
 # Design and Implementation of Microphone Array using Spartan-6
 ============
 
-This poject implemented for Languages of Hardware Design (FPGA) course at [Isfahan University of Technology](http://iut.ac.ir)
+[Report](/poject_fpga.pdf) (in persian)
 
-HOW TO USE IT (in persian)
----------------
-
-[click this file if you know persian language ](/poject_fpga.pdf)
 
 Files
 ---------------------------------------
@@ -42,7 +38,4 @@ Video
 ---------------------------------------
 
 Youtube : https://www.youtube.com/watch?v=ECHrWBCQf3o&feature=youtu.be
-
-[download](https://github.com/kargaranamir/Microphone_fpga/raw/master/video_2018-01-24_01-20-41.mov)
-
 
