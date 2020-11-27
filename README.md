@@ -15,14 +15,14 @@ We used FT2232H for transferring data and programming the FPGA without JTAG . Th
  
  ### Board ( Schematic and Pcb designing )
  Also we design a customized board for Spartan6 (XC6SLX9-2TQG144C)
-![Screenshot](https://github.com/kargaranamir/Microphone_fpga/blob/master/board/board.png "Board")
+![Screenshot](./board/board.png "Board")
  
  ### Matlab 
  matlab code for playing the voice 
  
  ### Verilog
  In the main of this project we implement I2S protocol by Verilog and UART/FIFO IC protocol by HLS.
-![Screenshot](https://github.com/kargaranamir/Microphone_fpga/blob/master/verilog/1.png "FT2232H")
+![Screenshot](./verilog/1.png "FT2232H")
 
  ### Visual Studio 
  C code for receiving data from FT2232H
@@ -30,7 +30,7 @@ We used FT2232H for transferring data and programming the FPGA without JTAG . Th
 Test
 ---------------------------------------
 when the input is very low amplitude sinusoid. We get this output with wide range of frequency.
-![Screenshot](https://github.com/kargaranamir/Microphone_fpga/blob/master/Visual_studio/1.png "FT2232H")
+![Screenshot](./Visual_studio/1.png "FT2232H")
 
 
 Youtube video : https://www.youtube.com/watch?v=ECHrWBCQf3o&feature=youtu.be
